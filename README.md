@@ -7,13 +7,13 @@ This repository is a detailed documentation of the development of the PollKit pr
 |----------------------------------------------|-------------|
 | [1. Table of Contents](#1-table-of-contents) | Overview of contents |
 | [2. Project general information](#2-project-general-information) | General infomation about the project |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.1. Section A](#2.1.-Section-A) | Description |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2. Developer Tools & Helpers](#2.2.-Developer-Tools-&-Helpers) | Setting up some tools and helpers for workflow |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.1. Husky](#2.2.1.-Husky) | Help with commits naming rule |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.2. Prettier](#2.2.2.-Prettier) | Help with code formatting |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.1. Section A](#21-section-a) | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2. Developer Tools & Helpers](#22-developer-tools-&-helpers) | Setting up some tools and helpers for workflow |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.1. Husky](#221-husky) | Help with commits naming rule |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.2. Prettier](#222-prettier) | Help with code formatting |
 | [3. Detailed technical information](#3-detailed-technical-information) | In-depth information about the technical development process |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.1. Section C](#3.1.-Section-C) | Description |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.2. Section D](#3.2.-Section-D) | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.1. Section C](#31-section-c) | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.2. Section D](#32-section-d) | Description |
 
 ## 2. Project general information
 
