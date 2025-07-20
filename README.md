@@ -15,9 +15,26 @@ This repository is a detailed documentation of the development of the PollKit pr
 
 ## 2. Project general information
 
-### 2.1. Section A
+### 2.1. Format & Woking rules
 
-### 2.2. Section B
+#### Husky
+
+Developers must name commit message with a prefix: feat, fix, refactor or chore.
+
+1. Run `npm install husky --save-dev`.
+2. Run `npx husky` to create folder `.husky/_`.
+3. Inside the above folder, create a file named `commit-msg` to add your rules.
+
+#### Prettier
+
+Apply the same code format rules for all members.
+
+- [x] Make sure your IDE installed Prettier.
+- [x] Add file `.prettierrc` which defines rules.
+- [x] Add file `.prettierignore` to exclude any folders / files from being formatted.
+- [ ] In case some code were pushed before Prettier setting up, run `npx prettier --write src` to reformat all files in `src` directory.
+
+### 2.2. Environments
 
 ## 3. Detailed technical information 
 
