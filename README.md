@@ -1,6 +1,14 @@
 # PollKit - A real time voting app
 This repository is a detailed documentation of the development of the PollKit project
 
+For details about the project progress and implementation, please visit:
+
+| Repository     | Link |
+|----------------|------|
+| PollKit Client | https://github.com/TranPhat-28/pollkit-client |
+| PollKit Server | https://github.com/TranPhat-28/pollkit-server |
+
+
 ## 1. Table of Contents
 
 | Section                                      | Description |
